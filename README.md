@@ -2,9 +2,7 @@
 
 I'm a long-time technologist with almost a decade of querying SQL under my belt. I've also had a stint as a web developer using PHP/HTML/CSS. I'm in the middle of making the transition to actively doing something with data instead of just efficiently retrieving it for others.
 
-- 🔭 I’m currently working on building out my modern data stack portfolio. I've recently finished the dbt Fundamentals course using BigQuery.
-
-- 🌱 I’m currently learning the Mode Analytics platform.
+- 🔭 I’m currently up to my eyeballs in learning Looker.
 
 - 😄 Pronouns: He/Him
 
