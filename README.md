@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm a long-time technologist with almost a decade of querying SQL under my belt. I've also had a stint as a web developer using PHP/HTML/CSS. I'm in the middle of making the transition to actively doing something with data instead of just efficiently retrieving it for others.
-
-- 🔭 I’m currently up to my eyeballs in learning Looker.
+I'm a long-time technologist with over a decade of querying SQL under my belt. I've also had a stint as a web developer using PHP/HTML/CSS. Lately I've been focusing on providing GTM teams with the data they need to succeed in their roles.
 
 - 😄 Pronouns: He/Him
 
